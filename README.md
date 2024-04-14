@@ -10,7 +10,7 @@ Também em atualizar em tempo-real sobre as mudanças de estado dos personagens,
 
 ## Servidor ⚙️
 No repositório da parte responsável pelo Servidor desse mesmo projeto, há mais informações sobre o funcionamento e a arquitetura do projeto.
-Encontre a [versão Servidor aqui](https://github.com/rodrigomolter/jogomultiplayer-servidor).
+Encontre a [versão Servidor aqui](https://github.com/rodrigomolter/ultimatekombatonline-servidor).
 
 ## Rodando 🏗️
 Para rodar o projeto, inicialmente é necessário que o **SERVIDOR** esteja rodando em paralelo.
