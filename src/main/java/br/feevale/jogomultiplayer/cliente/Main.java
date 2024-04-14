@@ -1,3 +1,5 @@
+package br.feevale.jogomultiplayer.cliente;
+
 import processing.core.PApplet;
 import processing.core.PImage;
 
@@ -40,7 +42,7 @@ public class Main extends PApplet {
 	boolean contarB = false;
 	
 	public static void main(String[] args) {
-		PApplet.main("Main");
+		PApplet.main("br.feevale.jogomultiplayer.cliente.Main");
 	}
 
 		public void settings(){

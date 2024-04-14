@@ -1,3 +1,4 @@
+package br.feevale.jogomultiplayer.cliente;
 
 public enum Action {
 
